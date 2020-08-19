@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Brevin Letner"); //Print Name to Screen
+  printf("Brevin Letner\n"); //Prints Name to Screen
+  printf("Computer Science\n"); //Prints school major
 
   return 0;
 }
